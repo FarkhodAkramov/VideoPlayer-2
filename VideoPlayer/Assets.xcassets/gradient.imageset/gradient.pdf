@@ -1,0 +1,151 @@
+%PDF-1.4
+%׃כיב
+1 0 obj
+<</Producer (Adobe XD)>>
+endobj
+3 0 obj
+<</Type /Pattern
+/PatternType 2
+/Matrix [1 0 0 -1 0 160]
+/Shading <</Function <</C0 [.125 .129 .141]
+/C1 [.125 .129 .141]
+/Domain [0 1]
+/FunctionType 2
+/N 1>>
+/Extend [true true]
+/Coords [0 80 360 80]
+/ShadingType 2
+/ColorSpace /DeviceRGB>>>>
+endobj
+4 0 obj
+<</Type /Pattern
+/PatternType 2
+/Matrix [1 0 0 -1 0 160]
+/Shading <</Function <</C0 [1 1 1]
+/C1 [0 0 0]
+/Domain [0 1]
+/FunctionType 2
+/N 1>>
+/Extend [true true]
+/Coords [0 80 360 80]
+/ShadingType 2
+/ColorSpace /DeviceRGB>>>>
+endobj
+5 0 obj
+<</Type /XObject
+/Subtype /Form
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Pattern <</P4 4 0 R>>>>
+/BBox [0 0 360 160]
+/Group <</Type /Group
+/S /Transparency
+/CS /DeviceRGB
+/I true>>
+/Length 55>> stream
+/Pattern CS/Pattern cs/P4 SCN/P4 scn
+0 0 360 160 re
+f*
+
+endstream
+endobj
+6 0 obj
+<</Type /ExtGState
+/SMask <</Type /Mask
+/S /Luminosity
+/G 5 0 R>>>>
+endobj
+7 0 obj
+<</Type /Pattern
+/PatternType 1
+/PaintType 1
+/TilingType 1
+/BBox [0 0 360 160]
+/XStep 360
+/YStep 160
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <</G6 6 0 R>>
+/Pattern <</P3 3 0 R>>>>
+/Length 62>> stream
+/G6 gs
+/Pattern CS/Pattern cs/P3 SCN/P3 scn
+0 0 360 160 re
+f*
+
+endstream
+endobj
+8 0 obj
+<</ca .749
+/BM /Normal>>
+endobj
+9 0 obj
+<</Length 102>> stream
+.25 0 0 -.25 0 160 cm
+q
+4 0 0 4 0 0 cm
+/Pattern CS/Pattern cs/P7 SCN/P7 scn
+/G8 gs
+0 0 360 160 re
+f
+Q
+
+endstream
+endobj
+2 0 obj
+<</Type /Page
+/Resources <</ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <</G8 8 0 R>>
+/Pattern <</P7 7 0 R>>>>
+/MediaBox [0 0 360 160]
+/Contents 9 0 R
+/StructParents 0
+/Parent 10 0 R>>
+endobj
+10 0 obj
+<</Type /Pages
+/Count 1
+/Kids [2 0 R]>>
+endobj
+11 0 obj
+<</Type /Catalog
+/Pages 10 0 R>>
+endobj
+xref
+0 12
+0000000000 65535 f 
+0000000015 00000 n 
+0000001446 00000 n 
+0000000055 00000 n 
+0000000313 00000 n 
+0000000553 00000 n 
+0000000854 00000 n 
+0000000937 00000 n 
+0000001255 00000 n 
+0000001295 00000 n 
+0000001658 00000 n 
+0000001714 00000 n 
+trailer
+<</Size 12
+/Root 11 0 R
+/Info 1 0 R>>
+startxref
+1763
+%%EOF1 0 obj
+<< /Producer (macOS Version 10.15.7 \(Build 19H2\) Quartz PDFContext, AppendMode 1.1)
+/ModDate (D:20201021105745Z00'00') >>
+endobj
+2 0 obj
+<< /Type /Page /MediaBox [ 0 0 360 160 ] /Resources << /ExtGState << /G8 8 0 R
+>> /Pattern << /P7 7 0 R >> /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI
+] >> /Parent 10 0 R /Rotate 0 /CropBox [ 0 2.28468 360 160 ] /StructParents
+0 /Contents 9 0 R >>
+endobj
+xref
+0 3
+0000000000 65535 f 
+0000002079 00000 n 
+0000002218 00000 n 
+trailer
+<< /ID [<><141486D3A79907A66AFEF88B56D9B06A> ] /Root 11 0 R /Size 12 /Prev 1763 /Info 1 0 R >> 
+startxref
+2483
+%%EOF
